@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">list and radio</string>
+    <string-array name="characters">
+        <item>Mario</item>
+        <item>Luigi</item>
+        <item>Preach</item>
+        <item>Bowser</item>
+    </string-array>
+</resources>

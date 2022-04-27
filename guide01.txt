@@ -1,0 +1,13 @@
+Practice - Guide 01:
+
+• Using "res" directory for  images
+•Using "palette" for UI design
+•Understanding how to adjust UI components
+•Radio groups
+•Radio buttons
+•Click events with view
+•Click event listeners
+•ListView
+•Dynamic Lists
+•Array Adapters
+•Switch-case in Kotlin
